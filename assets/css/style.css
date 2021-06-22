@@ -1,0 +1,35 @@
+body {
+    background-color: #dedfe4ea;
+}
+
+aside {
+    background-color: #0b486b;
+    flex-shrink: unset !important;
+}
+
+aside a {
+    color: #a8dba8;
+}
+
+aside a:hover {
+    color: b#3b8686;
+}
+
+section {
+    background-color: #a8dba8;
+}
+
+section a {
+    color: #0b486b;
+}
+
+
+section a:hover {
+    color: #3b8686;
+}
+
+footer {
+    background-color: #0b486b;
+    border-top: 10px solid #3b8686;
+    margin-top: 10px;
+}
